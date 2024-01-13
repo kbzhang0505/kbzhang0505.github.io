@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Your Name / Site Title"
+title                    : "kbZhang's Personal Homepage"
 title_separator          : "-"
 name                     : &name "Dr.Kaibing Zhang"
 description              : &description "Vice Dean, School of Computer Science, Xi 'an Polytechnic University"
@@ -84,7 +84,7 @@ author:
   avatar           : "profile.png"
   bio              : "Xi'an Polytechnic University"
   location         : "China Xi'an"
-  employer         :
+  employer         : "Vice Dean, School of Computer Science, Xi 'an Polytechnic University"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : # "http://yourfullgooglescholarurl.com"
   email            : "zhangkaibing@xpu.edu.cn"
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "https://github.com/kbzhang0505"
+  github           : "https://kbzhang0505.github.io"
   google_plus      :
   keybase          :
   instagram        :
