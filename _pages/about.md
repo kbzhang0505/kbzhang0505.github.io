@@ -17,6 +17,8 @@ Publication
 ======
 
 
-Site-wide configuration
+patents
 ------
 
+discipline competition
+------
